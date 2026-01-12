@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi  👋
 
 <!--
 **Vivek6746/Vivek6746** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
