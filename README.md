@@ -1,4 +1,10 @@
-## Hi  👋
+## Hi 👋, I'm an M.Tech student passionate about technology and problem-solving.
+
+🎓 M.Tech | Engineering  
+💻 Interests: Software Development, Research, and Emerging Technologies  
+📚 Currently exploring advanced concepts and building real-world projects  
+🚀 Always eager to learn, collaborate, and contribute to open-source
+
 
 
 
